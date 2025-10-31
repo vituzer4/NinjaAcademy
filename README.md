@@ -25,7 +25,3 @@ Tudo é feito diretamente no **console**, utilizando o `Scanner` para leitura de
 - Armazenamento: `Array de Strings`
 
 ---
-
-## ✍️ O que aprendi
-Durante o desenvolvimento deste projeto, aprendi a:
-- Criar e contr
